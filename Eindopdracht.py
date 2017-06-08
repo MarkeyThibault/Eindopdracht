@@ -70,3 +70,5 @@ while True:
     print("Temperatuur buiten: {} ({}mV) {} deg C".format(temp_level_buiten, temp_volts_buiten, temp_buiten))
 
     time.sleep(2)
+
+    #test
